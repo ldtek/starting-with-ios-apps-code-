@@ -3,3 +3,9 @@
 output of code var str = "hey whats poppoin"
 
 output: hey whats poppin 
+
+2. output that later i guess, inside a print statment you will have the variable
+
+output of codeL print(str)
+
+output: hey whats poppin
