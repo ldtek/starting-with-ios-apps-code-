@@ -1,0 +1,5 @@
+1. var holds data, to declare a variable var str (str is variable name) than = "whatever you want to put here"
+
+output of code var str = "hey whats poppoin"
+
+output: hey whats poppin 
